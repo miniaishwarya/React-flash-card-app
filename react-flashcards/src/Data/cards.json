@@ -1,0 +1,34 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "to be",
+            "han": "是",
+            "pin": "shì"
+        },
+        {
+            "id": 2,
+            "eng": "not",
+            "han": "不",
+            "pin": "bù"
+        },
+        {
+            "id": 3,
+            "eng": "person",
+            "han": "人",
+            "pin": "rén"
+        },
+        {
+            "id": 4,
+            "eng": "we",
+            "han": "我们",
+            "pin": "wǒmen"
+        },
+        {
+            "id": 5,
+            "eng": "at",
+            "han": "在",
+            "pin": "zài"
+        }
+    ]
+}
