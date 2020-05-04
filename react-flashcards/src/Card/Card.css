@@ -6,9 +6,11 @@
   position: relative;
   margin: auto;
   transition: ease-in;
+  background-color: aliceblue;
 }
 
 .image-container {
+  cursor: pointer;
   height: 400px;
   width: 400px;
 }
@@ -53,6 +55,8 @@
 
 .french{
   color: #333;
-  font-size: 6.3em;
-  padding-top: 20%;
+  font-size: 6.0em;
+  padding-top: 10%;
+  text-justify: auto;
+  word-wrap: break-word;
 }

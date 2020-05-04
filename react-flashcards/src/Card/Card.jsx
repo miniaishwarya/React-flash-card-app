@@ -1,15 +1,12 @@
 import React from 'react';
 import './Card.css';
 
-import goat_white_tongue from '../Data/images/goat_white_tongue.jpg'
-
 const Card = (props) => (
     <div className="card-container">
         <div className="card">
             <div className="front">
-                <div className="eng">
-                    {props.eng}
-                        <img src={props.image} alt="ggoat"/>
+                <div className="image-container">
+                    <img src={props.image} alt={props.eng}/>
                 </div>
             </div>
             <div className="back">
